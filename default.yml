@@ -1,2 +1,6 @@
 config:
     name: remote-default-yaml-config-this-is-update-result-content
+    a: 1
+    b: 2
+    c: 3
+    d: 4
